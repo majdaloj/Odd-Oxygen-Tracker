@@ -23,4 +23,4 @@ Project is created with:
 	
 ## Credit
 Project completed by Salwa Abdalla, Majda Lojpur, Conrad Stanek and Devan Srinivasan.
-Submitted for csc110.
+Submitted for csc110. ReadMe written by Salwa Abdalla.
